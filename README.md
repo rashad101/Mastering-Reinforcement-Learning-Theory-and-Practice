@@ -1,1 +1,1 @@
-# Mastering-Reinforcement-Learning-Theory-and-Practice
+# Mastering Reinforcement Learning: Theory and Practice
